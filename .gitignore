@@ -1,0 +1,7 @@
+*.wav
+*.flac
+*.mp3
+*.opus
+pypy3
+__pycache__
+.idea
